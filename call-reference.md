@@ -3,7 +3,7 @@ This article is a list of all the found calls to teh dubtrack.fm server.
 
 There are still missing most of returned objects (but it is written that they return one).
 
-For a list of endpoints you can [follow this link](https://github.com/copying/dub-bot/wiki/endpoints) (it is in the exact same order so it's also usefull to find a specific call).
+For a list of endpoints you can [follow this link](https://github.com/copying/dubtrack-unofficial-API/blob/master/endpoints.md) (it is in the exact same order so it's also usefull to find a specific call).
 
 ## Account
 #### Log in
