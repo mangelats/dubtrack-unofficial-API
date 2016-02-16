@@ -1,5 +1,5 @@
 # Endpoints
-This page only contains a list of endpoints. The ful reference [can be found here](https://github.com/copying/dub-bot/wiki/dubtrack-call-reference) (They are ordered the exact same way, so this can be used to search for specific calls).
+This page only contains a list of endpoints. The ful reference [can be found here](https://github.com/copying/dubtrack-unofficial-API/blob/master/call-reference.md) (They are ordered the exact same way, so this can be used to search for specific calls).
 
 ## Account
  - Log in: `POST /auth/dubtrack`
