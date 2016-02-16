@@ -17,4 +17,4 @@ To send information to the client, it will use a [PubNub](https://www.pubnub.com
 [Dubtrack's PubNub messages reference](https://github.com/copying/dubtrack-unofficial-API/blob/master/pubnub-reference.md)
 
 ## Help in this reference
-Any help is welcomed. This reference has yet to be fully tested and I know for sure that there are missing things.
+Any help is welcomed. This reference has yet to be fully tested.
