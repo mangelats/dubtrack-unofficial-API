@@ -1,7 +1,7 @@
 # Dubtrack unofficial API
 This repository contains all the information about the dubtrack.fm API.
 
-This reference is unofficial mostly found out by testing. It is also work in process so there may be a few errors (right now everything had been tested except for some features of playlist, room queue and user queue).
+This reference is unofficial mostly found out by testing. It is also work in process so there may be a few errors.
 
 ## About
 If you found this is probably because you are looking for some dubtrack API documentation. The official is not updatted and I couldn't find another reference site. I needed the call reference for a project: [DubBot](https://github.com/copying/DubBot). I don't want more people to feel the pain of looking for the calls so here it is.
